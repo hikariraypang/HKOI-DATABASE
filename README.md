@@ -1,6 +1,6 @@
 # HKOI-DATABASE
 Here is a storage of my work in HKOI(Account:E10570)
-!https://i.ibb.co/Tc628dt/2022-06-30-14-59-17.png
+![file/account](account.png "accound")
 
 *This database is only for reference only, plagiarism is not allowed.* 
 
