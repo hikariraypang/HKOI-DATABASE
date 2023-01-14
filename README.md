@@ -11,4 +11,4 @@ Hope it can provide convenience for you and you can use it wistly!
   
 # Update 1.0.1
 9 new works using Python 3.0 is uploaded, including:
-  DSE Exercise(D201,D202,D203,D207,D302,D501) , HKOI 經典題集(01006), 訓練隊練習賽(M17A1, M17A3)
+  DSE Exercise(D201,D202,D203,D302,D501) , HKOI 經典題集(01006), 訓練隊練習賽(M17A1, M17A3)
